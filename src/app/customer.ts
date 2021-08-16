@@ -13,10 +13,17 @@ export interface Customer {
   name?: string;
   country?: Country;
   company?: string;
-  date?: string | Date;
+  date: string | Date;
   status?: string;
   activity?: number;
   representative?: Representative;
   verified?: boolean;
   balance?: boolean;
+}
+
+export interface Users {
+  name?: string;
+  age?: number;
+  dob: string | Date;
+  address?: string;
 }

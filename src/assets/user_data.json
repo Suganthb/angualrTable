@@ -1,0 +1,14 @@
+{
+  "data": [
+    {"name": "Suganthan", "age": 25, "dob":"1996-12-12", "address": "Jaffna"},
+    {"name": "Khosalan", "age": 25, "dob":"1996-05-02", "address": "Batticalo"},
+    {"name": "Akkshar", "age": 24, "dob":"1997-02-22", "address": "Balangoda"},
+    {"name": "Inthushani", "age": 20, "dob":"2001-02-11", "address": "Mannar"},
+    {"name": "Thushi", "age": 28, "dob":"1990-10-27", "address": "Trincomalee"},
+    {"name": "Suganthan", "age": 23, "dob":"1996-12-12", "address": "Jaffna"},
+    {"name": "Khosalan", "age": 25, "dob":"1996-05-02", "address": "Batticalo"},
+    {"name": "Akkshar", "age": 24, "dob":"1997-02-22", "address": "Balangoda"},
+    {"name": "Inthushani", "age": 20, "dob":"2001-02-11", "address": "Mannar"},
+    {"name": "Thushi", "age": 28, "dob":"1990-10-27", "address": "Trincomalee"}
+  ]
+}

@@ -1,0 +1,11 @@
+<label>
+  {{element.title}}:
+  <input class="border-2 border-indigo-600 rounded-md" type="number" [(ngModel)]="element.filterValue">
+</label>
+
+
+<select type="number" [(ngModel)]="selectedLevel" (change)="changeOptions($event)" class="py-1 px-2 border border-transparent shadow-sm text-sm font-medium rounded-md text-white bg-green-400">
+  <option class="practical" *ngFor="let e of filterOptions" [ngValue]="e.value">
+    {{e.viewValue}}
+  </option>
+</select>
